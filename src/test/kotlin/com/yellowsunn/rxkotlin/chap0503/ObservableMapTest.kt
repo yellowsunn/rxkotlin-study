@@ -1,6 +1,5 @@
 package com.yellowsunn.rxkotlin.chap0503
 
-import ch.qos.logback.core.util.TimeUtil
 import io.reactivex.Observable
 import org.junit.jupiter.api.Test
 import org.slf4j.LoggerFactory
